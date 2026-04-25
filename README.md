@@ -22,10 +22,10 @@ Zbiór danych zawiera recenzje pobrane ze Steam dla gry Final Fantasy XIII. Każ
 
 ...
 
-Instalacja:
+## Instalacja:
 
 ...
 
 ## Autorzy
 
-...
+Michał Bogdański
