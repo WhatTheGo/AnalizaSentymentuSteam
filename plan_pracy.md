@@ -3,12 +3,12 @@
 
 Cel: przygotowanie środowiska, wybór tematu i struktury projektu.
 
-| #  | ID    | Typ     | Priorytet  | SP | Zadanie                                                                                            |
-|----|-------|---------|------------|----|----------------------------------------------------------------------------------------------------|
-| 1  | B-001 | Zadanie | Krytyczny | 2  | <code style="color : cyan">+</code> Wybór tematu projektu                                          |
+| #  | ID    | Typ     | Priorytet  | SP | Zadanie                                                                                                                                |
+|----|-------|---------|------------|----|----------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | B-001 | Zadanie | Krytyczny | 2  | <code style="color : cyan">+</code> Wybór tematu projektu                                                                              |
 | 2  | B-002 | Zadanie | Wysoki    | 1  | <code style="color : cyan">+</code> Założenie repozytorium GitHub (README, .gitignore, licencja)                                       |
-| 3  | B-003 | Zadanie | Wysoki    | 2  | Konfiguracja środowiska (venv, requirements.txt: transformers, torch, scikit-learn, pandas, spacy) |
-| 4  | B-004 | Zadanie | Średni    | 1  | Ustalenie struktury katalogów                                                                      |
+| 3  | B-003 | Zadanie | Wysoki    | 2  | <code style="color : cyan">+</code> Konfiguracja środowiska (venv, requirements.txt: transformers, torch, scikit-learn, pandas, spacy) |
+| 4  | B-004 | Zadanie | Średni    | 1  | <code style="color : cyan">+</code> Ustalenie struktury katalogów                                                                                                          |
 
 ---
 
