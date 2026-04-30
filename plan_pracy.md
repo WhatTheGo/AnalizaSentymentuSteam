@@ -16,13 +16,13 @@ Cel: przygotowanie środowiska, wybór tematu i struktury projektu.
 
 Cel: pozyskanie, eksploracja i przetwarzanie wstępne danych.
 
-| #  | ID    | Typ        | Priorytet  | SP | Zadanie                                        |
-|----|-------|------------|------------|----|-------------------------------------------------|
+| #  | ID    | Typ        | Priorytet  | SP | Zadanie                                                                                                                                  |
+|----|-------|------------|------------|----|------------------------------------------------------------------------------------------------------------------------------------------|
 | 5  | B-005 | User Story | Krytyczny | 3  | <code style="color : cyan">+</code> Pozyskanie zbioru danych (min. 1000 przykładów) z udokumentowanym źródłem (KLEJ, PolEval, HF Datasets) |
-| 6  | B-006 | User Story | Wysoki    | 5  | Eksploracyjna analiza danych (EDA): rozkład klas, długość tekstów, wordcloud, statystyki opisowe |
-| 7  | B-007 | User Story | Krytyczny | 5  | Pipeline przetwarzania wstępnego: tokenizacja, normalizacja, lematyzacja (spaCy), czyszczenie |
-| 8  | B-008 | Zadanie    | Wysoki    | 2  | Podział danych train/val/test |
-| 9  | B-009 | Zadanie    | Średni    | 1  | Dokumentacja źródła danych w README (źródło, licencja, rozkład klas, format) |
+| 6  | B-006 | User Story | Wysoki    | 5  | <code style="color : cyan">+</code> Eksploracyjna analiza danych (EDA): rozkład klas, długość tekstów, wordcloud, statystyki opisowe     |
+| 7  | B-007 | User Story | Krytyczny | 5  | Pipeline przetwarzania wstępnego: tokenizacja, normalizacja, lematyzacja (spaCy), czyszczenie                                            |
+| 8  | B-008 | Zadanie    | Wysoki    | 2  | Podział danych train/val/test                                                                                                            |
+| 9  | B-009 | Zadanie    | Średni    | 1  | Dokumentacja źródła danych w README (źródło, licencja, rozkład klas, format)                                                             |
 
 ---
 
