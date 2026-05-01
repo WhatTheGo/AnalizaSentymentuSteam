@@ -3,5 +3,6 @@ torch
 scikit-learn
 pandas
 spacy
-
 wordcloud
+seaborn
+matplotlib

@@ -22,7 +22,7 @@ Cel: pozyskanie, eksploracja i przetwarzanie wstępne danych.
 | 6  | B-006 | User Story | Wysoki    | 5  | <code style="color : cyan">+</code> Eksploracyjna analiza danych (EDA): rozkład klas, długość tekstów, wordcloud, statystyki opisowe       |
 | 7  | B-007 | User Story | Krytyczny | 5  | <code style="color : cyan">+</code> Pipeline przetwarzania wstępnego: tokenizacja, normalizacja, lematyzacja (spaCy), czyszczenie          |
 | 8  | B-008 | Zadanie    | Wysoki    | 2  | <code style="color : cyan">+</code> Podział danych train/val/test                                                                          |
-| 9  | B-009 | Zadanie    | Średni    | 1  | Dokumentacja źródła danych w README (źródło, licencja, rozkład klas, format)                                                               |
+| 9  | B-009 | Zadanie    | Średni    | 1  | <code style="color : cyan">+</code> Dokumentacja źródła danych w README (źródło, licencja, rozkład klas, format)                                                               |
 
 ---
 
