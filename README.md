@@ -36,7 +36,7 @@ $~$1 (pozytywne) $~~$ 2805
 
 - **Plik:** `steam_reviews.csv`
 - **Separator:** `,`
-- **Liczba wierszy:** ~160 000
+- **Liczba wierszy:** 6 409 801
 - **Kolumny:**  
   | Kolumna | Typ | Opis |  
   | app_id | int | Id gry |  
